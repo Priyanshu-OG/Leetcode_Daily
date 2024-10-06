@@ -12,7 +12,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/leetcode-daily-challenges.git
+git clone https://github.com/Priyanshu-OG/Leetcode_Daily.git
 cd leetcode-daily-challenges
 Run a solution:
 
